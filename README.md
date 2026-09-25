@@ -1,1 +1,2 @@
-Guia de clase.\ln
+Guia de clase
+##esto ha sido actualizado
